@@ -1,6 +1,9 @@
 # Frontend Mentor - Clipboard landing page solution
 
-This is a solution to the [Clipboard landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the
+[Clipboard landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9).
+Frontend Mentor challenges help you improve your coding skills by building
+realistic projects.
 
 ## Table of contents
 
@@ -26,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Ikenna04/clipboard-landing-page)
+- Live Site URL: (https://ikenna04.github.io/clipboard-landing-page/)
 
 ### Built with
 
@@ -38,6 +41,7 @@ Users should be able to:
 
 EZEORAH IKENNA PASCHAL
 
-- Website - [Add your name here](https://www.your-site.com)
+<!-- - Website - [Add your name here](https://www.your-site.com) -->
+
 - Frontend Mentor - [@Ikenna04](https://www.frontendmentor.io/profile/Ikenna04)
 - Twitter - [@ikenna004](https://www.twitter.com/ikenna004)
